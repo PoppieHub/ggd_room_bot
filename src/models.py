@@ -3,6 +3,7 @@ from datetime import datetime
 
 
 class Map(Enum):
+    MALLARDON = "Маллардон"
     THE_CARNIVAL = "Карнавал"
     EAGLETON_SPRINGS = "Иглтон Спрингс"
     BLOODHAVEN = "Кровавая Гавань"
